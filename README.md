@@ -1,3 +1,5 @@
+Trufflebox React https://trufflesuite.com/boxes/react/
+
 Install Truffle - https://trufflesuite.github.io/docs/truffle/getting-started/installation.html
 
 Start local dev environment
